@@ -1,0 +1,9 @@
+#install GO tool for local device Mac/Windows/Linux from below website. 
+#https://golang.org/dl/
+
+#Go Playground is free but it runs on sandbox of GO 
+#Hence it limits the usage of this tool, with certain specific date and time on server always bieng NOV 10, 2009, 11PM.
+#Also limits file system or coding anything which needs external connection, so for full package level control you would need a local installation of Go. 
+
+#Go playground is always helpful to check if your code is in working condition or not before including in your source code. 
+# Link to Go Playground : https://play.golang.org/
